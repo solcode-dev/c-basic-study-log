@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/soyoungan/dev/Book_C-programming/debug/NeedInputBufFlush'
+relocations:     []
+...

@@ -1,0 +1,11 @@
+#include <stdio.h>
+
+int main(void)
+{
+  return 0;
+}
+
+// 3 1
+// 6 4
+// 5 2
+// 1 1

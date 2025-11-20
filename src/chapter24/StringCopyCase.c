@@ -3,7 +3,6 @@
 
 int main(void)
 {
-
   char str1[20] = "1234567890";
   char str2[20];
   char str3[5];
